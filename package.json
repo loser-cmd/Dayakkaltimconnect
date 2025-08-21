@@ -1,4 +1,11 @@
-{
+{{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  }
+}
+
   "name": "dayak-kaltim-connect",
   "version": "4.0.0",
   "scripts": {
